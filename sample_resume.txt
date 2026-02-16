@@ -1,0 +1,12 @@
+
+SUMMARY
+AI/ML engineer building scalable data systems and deploying production models.
+
+EXPERIENCE
+Built scalable ML pipelines and designed system architecture for data ingestion.
+Shipped features under tight deadlines and owned delivery end-to-end.
+Collaborated cross-functionally with product and stakeholders.
+Improved reliability through monitoring, testing, and documentation.
+
+SKILLS
+Python, FastAPI, SQL, Docker, LLMs
