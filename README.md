@@ -88,9 +88,6 @@ export GROQ_API_KEY="your_key_here"
 ## 3. Run script
 python rolecolor_ai.py --input sample_resume.txt --title "AI/ML Engineer"
 
-Optional (skip LLM step):
-python rolecolor_ai.py --input sample_resume.txt --no-llm
-
 ---
 
 # Assumptions Made
